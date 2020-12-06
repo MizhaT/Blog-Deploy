@@ -81,6 +81,9 @@ contact:
   Email:
     - mailto:mizhat@qq.com
     - ri-mail-line
+  RSS:
+    - https://mizhat.github.io/feed.xml
+    - ri-rss-fill
 
 ########## 关于文章的设置 ##########
 
