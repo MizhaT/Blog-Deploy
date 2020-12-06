@@ -27,6 +27,7 @@ jobs:
       run: |
         npm install hexo-cli -g
         npm install
+        npm install hexo-generator-feed
 
     - name: Setup Deploy Private Key
       env:
