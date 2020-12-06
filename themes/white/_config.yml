@@ -146,3 +146,5 @@ archive_tab_name: archive
 #图片懒加载
 lazyload:
   open: true #是否开启
+
+rss: /atom.xml
