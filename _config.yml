@@ -103,16 +103,16 @@ theme: white
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 plugin:
-- hexo-generator-feed
+  - hexo-generator-feed
 
 #Feed Atom
 feed:
-type: atom
-path: atom.xml
+  type: atom
+  path: atom.xml
   
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://MizhaT:mm2877417@github.com/MizhaT/MizhaT.github.io
+  repo: https://github.com/MizhaT/MizhaT.github.io
   branch: main
